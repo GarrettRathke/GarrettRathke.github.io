@@ -1,0 +1,3 @@
+[submodule "EarthDefense"]
+	path = EarthDefense
+	url = https://github.com/GarrettRathke/EarthDefense.git
